@@ -1,0 +1,153 @@
+"Name", "NativeName", "VatRate"
+"Japan", "日本", 10
+"Norway", "Kongeriket Norge", 25
+"Ireland", "Eire", 23
+"Hungary", "Magyarorszag", 27
+"Spain", "Espana", 21
+"Belgium", "Koninkrijk Belgie", 21
+"Luxembourg", "Letzebuerg", 17
+"Finland", "Suomi", 24
+"Sweden", "Sverige", 25
+"Lithuania", "Lietuva", 21
+"Italy", "Repubblica Italiana", 22
+"Switzerland", "Schweizerische Eidgenossenschaft", 7
+"Austria", "Republik Osterreich", 20
+"Greece", "Ελλάδα", 24
+"Turkey", "Turkiye Cumhuriyeti", 18
+"Portugal", "Republica Portuguesa", 23
+"Uruguay", "Uruguay", 22
+"Egypt", "جُمهورِيّةُ مِصرَ العَرَبيّةِ", 14
+"Mexico", "México", 16
+"Kenya", "Jamhuri ya Kenya", 16
+"Ethiopia", "ኢትዮጵያ", 15
+"Ghana", "Ghana", 15
+"France", "Republique francaise", 20
+"United Kingdom", "United Kingdom of Great Britain and Northern Ireland", 20
+"People's Republic of China", "中华人民共和国", 13
+"Russia", "Россия", 20
+"Germany", "Bundesrepublik Deutschland", 19
+"Belarus", "Рэспубліка Беларусь", 20
+"Iceland", "Island", 24
+"Estonia", "Eesti Vabariik", 20
+"Latvia", "Latvija", 21
+"Ukraine", "Україна", 20
+"Czech Republic", "Ceska republika", 21
+"Slovakia", "Slovenska republika", 20
+"Slovenia", "Slovenija", 22
+"Moldova", "Republica Moldova", 20
+"Romania", "Romania", 19
+"Bulgaria", "България", 20
+"North Macedonia", "Република Северна Македонија", 18
+"Albania", "Republika e Shqiperise", 20
+"Croatia", "Republika Hrvatska", 25
+"Bosnia and Herzegovina", "Bosna i Hercegovina", 17
+"Azerbaijan", "Azərbaycan Respublikası", 18
+"Andorra", "Andorra", 4
+"Cyprus", "Κυπριακή Δημοκρατία", 19
+"Georgia", "საქართველო", 18
+"Kazakhstan", "Қазақстан Республикасы", 12
+"Malta", "Malta", 18
+"Monaco", "Principaute de Monaco", 19
+"Montenegro", "Црна Гора / Crna Gora", 21
+"Belize", "Belize", 12
+"Barbados", "Barbados", 17
+"Indonesia", "Republik Indonesia", 10
+"South Africa", "Suid-Afrika", 15
+"Algeria", "الجمهورية الجزائرية الديمقراطية الشعبية", 19
+"Uzbekistan", "Oʻzbekiston", 20
+"Chile", "República de Chile", 19
+"Singapore", "Republic of Singapore", 7
+"Liechtenstein", "Liechtenstein", 7
+"Bahrain", "البحرين", 5
+"Armenia", "Հայաստան", 20
+"Serbia", "Србија", 20
+"Argentina", "Argentina", 21
+"Peru", "Republica del Peru", 18
+"Cambodia", "កម្ពុជា", 10
+"Chad", "Tchad", 18
+"New Zealand", "Aotearoa", 15
+"India", "Republic of India", 5
+"Tonga", "Tonga", 15
+"Samoa", "Malo Sa'oloto Tuto'atasi o Samoa", 15
+"Vanuatu", "Ripablik blong Vanuatu", 13
+"Papua New Guinea", "Independent State of Papua New Guinea", 10
+"Mongolia", "Монгол Улс", 10
+"Fiji", "Republic of Fiji", 15
+"Venezuela", "Venezuela", 12
+"Paraguay", "Republica del Paraguay", 10
+"Guyana", "Co-operative Republic of Guyana", 16
+"Ecuador", "Republica del Ecuador", 12
+"Colombia", "Colombia", 19
+"Bolivia", "Estado Plurinacional de Bolivia", 13
+"Trinidad and Tobago", "Trinidad and Tobago", 12
+"Saint Vincent and the Grenadines", "Saint Vincent and the Grenadines", 15
+"Saint Kitts and Nevis", "Federation of Saint Kitts and Nevis", 17
+"Jamaica", "Jamaica", 12
+"Grenada", "Grenada", 15
+"Guatemala", "Guatemala", 12
+"The Bahamas", "Commonwealth of the Bahamas", 7
+"Honduras", "Republica de Honduras", 15
+"Dominica", "Commonwealth of Dominica", 15
+"Dominican Republic", "República Dominicana", 18
+"Haiti", "Ayiti", 10
+"El Salvador", "El Salvador", 13
+"Iran", "ایران", 9
+"Costa Rica", "Republica de Costa Rica", 13
+"Israel", "יִשְרָאֵל", 17
+"Panama", "Panama", 7
+"Jordan", "الأردن", 16
+"Nicaragua", "Republica de Nicaragua", 15
+"Kyrgyzstan", "Кыргызстан", 20
+"Laos", "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ", 10
+"Lebanon", "الجمهورية اللبنانية", 11
+"Maldives", "ދިވެހިރާއްޖޭގެ ޖުމުހޫރިއްޔާ", 6
+"Malaysia", "Malaysia", 6
+"Nepal", "नेपाल", 13
+"Pakistan", "پاکستان", 17
+"Saudi Arabia", "المملكة العربية السعودية", 15
+"Sri Lanka", "ශ්‍රී ලංකා ප්‍රජාතාන්ත්‍රික සමාජවාදී ජනරජය", 17
+"Tajikistan", "Ҷумҳурии Тоҷикистон", 20
+"Taiwan", "中華民國", 5
+"Thailand", "ประเทศไทย", 10
+"Turkmenistan", "Turkmenistan Respublikasi", 15
+"United Arab Emirates", "الإمارات العربية المتحدة", 5
+"Vietnam", "Việt Nam", 10
+"South Korea", "대한민국", 10
+"Bangladesh", "গণপ্রজাতন্ত্রী বাংলাদেশ", 15
+"Mali", "Mali", 18
+"Tanzania", "Jamhuri ya Muungano wa Tanzania", 18
+"Philippines", "Republika ng Pilipinas", 12
+"Central African Republic", "Republique Centrafricaine", 19
+"Togo", "Togo", 18
+"Tunisia", "تونس", 18
+"Zambia", "Republic of Zambia", 16
+"Zimbabwe", "Zimbabwe", 15
+"Benin", "Benin", 18
+"Botswana", "Botswana", 12
+"Burkina Faso", "Burkina Faso", 18
+"Burundi", "Uburundi", 18
+"Republic of the Congo", "Republique du Congo", 16
+"Democratic Republic of the Congo", "Republique Democratique du Congo", 16
+"Equatorial Guinea", "Republica de Guinea Ecuatorial", 15
+"Gabon", "Republique gabonaise", 18
+"The Gambia", "Republic of The Gambia", 15
+"Guinea", "Republique de Guinee", 18
+"Guinea-Bissau", "Republica da Guine-Bissau", 15
+"Cote d'Ivoire", "Republique de Cote d'Ivoire", 18
+"Cape Verde", "Republica de Cabo Verde", 15
+"Lesotho", "Lesotho", 14
+"Madagascar", "Republikan'i Madagaskar", 20
+"Malawi", "Republic of Malawi", 16
+"Mauritania", "الجمهورية الإسلامية الموريتانية", 14
+"Mauritius", "Republique de Maurice", 15
+"Morocco", "المغرب", 20
+"Mozambique", "Republica de Mocambique", 17
+"Namibia", "Republic of Namibia", 15
+"Niger", "Nijar", 19
+"Nigeria", "Nijeriya", 7
+"Uganda", "Uganda", 18
+"Rwanda", "Rwanda", 18
+"Senegal", "Senegaal", 18
+"Seychelles", "Republique des Seychelles", 15
+"Sierra Leone", "Republic of Sierra Leone", 15
+"Sudan", "جمهورية السودان", 17
